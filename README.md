@@ -86,11 +86,11 @@ python ui/workflow_app.py
 
 | 输入 | 像素画效果 | PerfectPixel优化效果 |
 |------|------------|---------------------|
-| ![示例输入](images/example_input.jpg) | ![像素画效果](images/output_pixel.png) | ![PerfectPixel优化效果](images/optimized_pixel.png) |
+| ![示例输入](https://github.com/user-attachments/assets/e05c3bf6-8c62-4e00-bb84-1b009c2157c5) | ![像素画效果](https://github.com/user-attachments/assets/202dd478-a2c8-4c85-8b28-19f142fd258e) | ![PerfectPixel优化效果](https://github.com/user-attachments/assets/d8489808-d0ab-4698-bd7e-7095bbda761f) |
 
 ### 界面截图
 
-![界面截图](images/ui_screenshot.png)
+![界面截图](https://github.com/user-attachments/assets/f01deaa7-15df-4ed6-953b-3e794ae48572)
 
 ## 应用场景
 
